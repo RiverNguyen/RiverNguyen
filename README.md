@@ -14,9 +14,6 @@ I am a FullStack Developer with a strong foundation in React, Next.js, and TypeS
 * 🤝  I'm open to collaborating on Interesting projects related to web development, especially those involving React, Next.js, and modern technologies.
 * ⚡  I’m passionate about exploring and continuously learning, with a goal to advance to roles like Senior Developer or Team Lead in the future.
 
-<a href="https://www.github.com/RiverNguyen" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RiverNguyen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
