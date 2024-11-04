@@ -1,8 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giang Nguyen Dinh
-=========================================================================================================================================
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
-FullStack Developer
--------------------
+
+
+<h1 align="center">
+Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> My name is Giang Nguyen Dinh
+</h1>
+
+
+<h1 align="center">FullStack Developer</h1>
 
 I am a FullStack Developer with a strong foundation in React, Next.js, and TypeScript. With hands-on experience in building dynamic applications, I have developed projects like an e-commerce platform, a task management tool, and a real-time messaging app. My skills extend to backend technologies, including Node.js and PostgreSQL, allowing me to build full-stack solutions. Passionate about continuous learning, I aim to enhance my expertise in web development, with a long-term goal of advancing to senior or lead roles."
 
