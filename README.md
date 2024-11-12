@@ -9,7 +9,7 @@ Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-07859
 
 <h1 align="center">FullStack Developer</h1>
 
-I am a FullStack Developer with a strong foundation in React, Next.js, and TypeScript. With hands-on experience in building dynamic applications, I have developed projects like an e-commerce platform, a task management tool, and a real-time messaging app. My skills extend to backend technologies, including Node.js and PostgreSQL, allowing me to build full-stack solutions. Passionate about continuous learning, I aim to enhance my expertise in web development, with a long-term goal of advancing to senior or lead roles."
+I am a FullStack Developer with a strong foundation in React, Next.js, and TypeScript. With hands-on experience in building dynamic applications, I have developed projects like an e-commerce platform, a task management tool, and a real-time messaging app. My skills extend to backend technologies, including Node.js and PostgreSQL, allowing me to build full-stack solutions. Passionate about continuous learning, I aim to enhance my expertise in web development, with a long-term goal of advancing to senior or lead roles.
 
 * 🌍  I'm based in Ha Noi, Viet Nam
 * 🖥️  See my portfolio at [River Portfolio](http://river-portfolio.vercel.app)
