@@ -14,7 +14,7 @@ I am a FullStack Developer with a strong foundation in React, Next.js, and TypeS
 * 🌍  I'm based in Ha Noi, Viet Nam
 * 🖥️  See my portfolio at [River Portfolio](http://river-portfolio.vercel.app)
 * ✉️  You can contact me at [ngiang1309@gmail.com](mailto:ngiang1309@gmail.com)
-* 🚀  I'm currently working on [OKHub Viet Nam(https://okhub.vn)
+* 🚀  I'm currently working on [OKHub Viet Nam](https://okhub.vn)
 * 🧠  I'm learning NestJS, Python
 * 🤝  I'm open to collaborating on Interesting projects related to web development, especially those involving React, Next.js, and modern technologies.
 * ⚡  I’m passionate about exploring and continuously learning, with a goal to advance to roles like Senior Developer or Team Lead in the future.
