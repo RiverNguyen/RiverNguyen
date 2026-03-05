@@ -64,7 +64,7 @@ Passionate about continuous learning, I aim to enhance my expertise in web devel
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RiverNguyen/okhub-theme/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RiverNguyen/RiverNguyen/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
