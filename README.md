@@ -1,13 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Giang%20Nguyen%20Dinh&fontSize=42&fontColor=fff&animation=twinkling" alt="Header" width="100%"/>
+  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&random=false&width=500&lines=FullStack+Developer;Next.js+%7C+React+%7C+TypeScript" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&random=false&width=500&lines=FullStack+Developer;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding" />
 </div>
 
 ---
@@ -28,9 +24,13 @@ Passionate about continuous learning, I aim to enhance my expertise in web devel
   <img src="https://img.shields.io/badge/📚-NestJS%20%7C%20Python-0ea5e9?style=flat-square" alt="Learning" />
 </p>
 
-| 🌍 **Location** | 🖥️ **Portfolio** | ✉️ **Contact** |
-|:---:|:---:|:---:|
+<div align="center">
+
+| 🌍 **Location**  |                   🖥️ **Portfolio**                   |                   ✉️ **Contact**                    |
+| :--------------: | :--------------------------------------------------: | :-------------------------------------------------: |
 | Ha Noi, Viet Nam | [River Portfolio](http://river-portfolio.vercel.app) | [ngiang1309@gmail.com](mailto:ngiang1309@gmail.com) |
+
+</div>
 
 ---
 
@@ -63,6 +63,10 @@ Passionate about continuous learning, I aim to enhance my expertise in web devel
   <img src="https://streak-stats.demolab.com/?user=RiverNguyen&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" alt="Streak Stats" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RiverNguyen/okhub-theme/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🤝 Let's Connect
@@ -81,7 +85,3 @@ Passionate about continuous learning, I aim to enhance my expertise in web devel
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=150&section=footer" alt="Footer" width="100%"/>
-</div>
