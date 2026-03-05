@@ -1,0 +1,27 @@
+name: Update Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:      # Cho phép chạy thủ công
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RiverNguyen
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#0d1117&color_dots=#39c5cf
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
