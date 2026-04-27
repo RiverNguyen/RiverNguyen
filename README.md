@@ -36,7 +36,7 @@ Passionate about continuous learning, I aim to enhance my expertise in web devel
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React"/></a>
@@ -49,7 +49,7 @@ Passionate about continuous learning, I aim to enhance my expertise in web devel
   <a href="https://docs.nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="40" height="40" alt="NestJS"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker"/></a>
-</p>
+</div>
 
 <p align="center">
   <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>HTML5</code> · <code>CSS3</code> · <code>Tailwind</code> · <code>Sass</code> · <code>Node.js</code> · <code>NestJS</code> · <code>PostgreSQL</code> · <code>Docker</code>
