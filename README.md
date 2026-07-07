@@ -20,7 +20,7 @@ Passionate about continuous learning, I aim to enhance my expertise in web devel
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Ha%20Noi,%20Viet%20Nam-0ea5e9?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/💼-OKHub%20Viet%20Nam-0ea5e9?style=flat-square" alt="Work" />
+  <img src="https://img.shields.io/badge/💼-Bateco%20Group-0ea5e9?style=flat-square" alt="Work" />
   <img src="https://img.shields.io/badge/📚-NestJS%20%7C%20Python-0ea5e9?style=flat-square" alt="Learning" />
 </p>
 
@@ -28,7 +28,7 @@ Passionate about continuous learning, I aim to enhance my expertise in web devel
 
 | 🌍 **Location**  |                   🖥️ **Portfolio**                   |                   ✉️ **Contact**                    |
 | :--------------: | :--------------------------------------------------: | :-------------------------------------------------: |
-| Ha Noi, Viet Nam | [River Portfolio](http://river-portfolio.vercel.app) | [ngiang1309@gmail.com](mailto:ngiang1309@gmail.com) |
+| Ha Noi, Viet Nam | [River Portfolio](http://rivernguyen.id.vn) | [ngiang1309@gmail.com](mailto:ngiang1309@gmail.com) |
 
 </div>
 
